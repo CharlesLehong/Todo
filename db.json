@@ -1,0 +1,22 @@
+{
+  "todo": [
+    {
+      "title": "Learn Vue!",
+      "due": "2022-12-15T10:02",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "title": "Learn Angular!",
+      "due": "2022-12-14T08:12",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "title": "Learn React!",
+      "due": "2022-12-14T08:17",
+      "isComplete": false,
+      "id": 3
+    }
+  ]
+}
